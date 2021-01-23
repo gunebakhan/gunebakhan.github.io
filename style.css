@@ -12,14 +12,15 @@
 }
 
 h1 {
-    margin-top: 100px;
-    font-size: 85px;
+    margin-top: 10rem;
+    font-size: 4rem;
     text-align: center;
-    color: rgb(151, 117, 72);;
+    color: rgb(151, 117, 72);
+    overflow: hidden;
 }
 h2 {
     text-align: center;
-    font-size: 75px;
+    font-size: 4.5rem;
     color: rgb(151, 117, 72);
 }
 
