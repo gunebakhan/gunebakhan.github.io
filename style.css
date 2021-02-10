@@ -3,7 +3,7 @@
 }
 .right {
     background-color: crimson;
-    height: 100%;
+
 }
 
 .main {
@@ -12,20 +12,20 @@
 }
 
 h1 {
-    margin-top: 10rem;
-    font-size: 4rem;
+    margin-top: 6rem;
+    font-size: 3rem;
     text-align: center;
     color: rgb(151, 117, 72);
     overflow: hidden;
 }
 h2 {
     text-align: center;
-    font-size: 4.5rem;
+    font-size: 2rem;
     color: rgb(151, 117, 72);
 }
 
 .left {
-    font-size: 25px;
+    font-size: 1.0rem;
     color: #fff;
     text-align: center;
 }
@@ -33,7 +33,7 @@ h2 {
 h3 {
     color: white;
     text-align: center;
-    font-size: 45px;
+    font-size: 1.7rem;
     color: burlywood;
     margin-top: 30px;
 }
@@ -43,6 +43,19 @@ a {
     color: #fff;
 }
 
+a:hover {
+    color: #fff;
+    font-size: larger;
+}
+
+a:visited {
+    color: #fff;
+}
+
+a:active {
+  color: #fff;
+}
+
 .list {
     color: #fff;
     font-size: 18px;
@@ -50,8 +63,7 @@ a {
 }
 
 h4 {
-    margin-top: 140px;
-    font-size: 45px;
+    margin-top: 1.6rem;
     color:  rgb(151, 117, 72);;
 }
 
